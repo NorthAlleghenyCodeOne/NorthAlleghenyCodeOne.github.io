@@ -58,7 +58,7 @@ hr{
 
 /*home styles*/
 .bg-home-container{
-	background-image: url("assets/computer-background-colorshifted.jpg");
+	background-image: url("computer-background-colorshifted.jpg");
 	background-repeat: no-repeat;
 	background-size: cover;
 	height: 100vh;
