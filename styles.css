@@ -165,7 +165,7 @@ hr{
 
 /*Lesson styles*/
 .bg-lessons{
-	background-image: url("assets/lesson-background.jpg");
+	background-image: url("lesson-background.jpg");
 	background-repeat: no-repeat;
 	background-size: cover;
 	color: #fff;
